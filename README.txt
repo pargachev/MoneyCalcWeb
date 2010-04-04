@@ -1,0 +1,1 @@
+Service for calculation money in small people group
