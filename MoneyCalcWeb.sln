@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyCalcWeb", "MoneyCalcWeb\MoneyCalcWeb.csproj", "{A1E1770B-E7E4-4490-BB5F-6247A0678C9A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C} = {6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyCalcWeb.Server", "MoneyCalcWeb.Server\MoneyCalcWeb.Server.csproj", "{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E1770B-E7E4-4490-BB5F-6247A0678C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E1770B-E7E4-4490-BB5F-6247A0678C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E1770B-E7E4-4490-BB5F-6247A0678C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E1770B-E7E4-4490-BB5F-6247A0678C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6991BD0D-A7B5-4B8D-9061-EAEEFEFC867C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
