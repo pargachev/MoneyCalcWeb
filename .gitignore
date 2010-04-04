@@ -1,0 +1,7 @@
+
+*.suo
+/MoneyCalcWeb/obj/
+/MoneyCalcWeb/bin/
+/MoneyCalcWeb.Server/bin/
+/MoneyCalcWeb.Server/obj/
+/MoneyCalcWeb.Server/ClientBin/
